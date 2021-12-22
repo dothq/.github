@@ -28,7 +28,7 @@ Here is some of the stuff we're working on right now:
 * **[Dot Browser](https://github.com/dothq/browser)** - The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
 * **[Dot One](https://github.com/dothq/one)** - A next-generation accounts system for synchronising your data with peace of mind. 
 * **[Dialect](https://github.com/dothq/dialect)** - Make localising your application into other languages easy.
-* **[Dot Translate](https://github.com/dothq/translate)** - Translate text between languages with high-accuracy using artificial intelligence.
+* **[Dot Lexicon](https://github.com/dothq/lexicon)** - Translate text between languages with high-accuracy using artificial intelligence.
 
 ### 🤝 Contributing
 
