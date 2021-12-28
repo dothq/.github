@@ -26,6 +26,7 @@ We're Dot HQ, a group of individuals interested in privacy.
 Here is some of the stuff we're working on right now:
 
 * **[Dot Browser](https://github.com/dothq/browser)** - The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
+* **[Dot Browser for Android](https://github.com/dothq/browser-android)** - The same private browser you all know and love on Android.
 * **[Dot One](https://github.com/dothq/one)** - A next-generation accounts system for synchronising your data with peace of mind. 
 * **[Dialect](https://github.com/dothq/dialect)** - Make localising your application into other languages easy.
 * **[Dot Lexicon](https://github.com/dothq/lexicon)** - Translate text between languages with high-accuracy using artificial intelligence.
