@@ -9,7 +9,7 @@ We're Dot HQ, a group of individuals interested in privacy.
   <span></span>
 	&nbsp;
   <a href="https://discord.gg/WRDEK2D" target="blank"> 
-    <img align="center" src="https://i.imgur.com/gvtzy24.png" alt="WRDEK2D" height="22" width="22" />
+    <img align="center" src="https://i.imgur.com/gRzFvVV.png" alt="WRDEK2D" height="17" width="22" />
   </a>
   <span></span>
 	&nbsp;
