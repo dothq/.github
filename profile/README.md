@@ -30,6 +30,7 @@ Here is some of the stuff we're working on right now:
 * **[Dot One](https://github.com/dothq/one)** - A next-generation accounts system for synchronising your data with peace of mind. 
 * **[Dialect](https://github.com/dothq/dialect)** - Make localising your application into other languages easy.
 * **[Dot Lexicon](https://github.com/dothq/lexicon)** - Translate text between languages with high-accuracy using artificial intelligence.
+* **[Oikia](https://github.com/dothq/oikia)** - Lightweight frontend framework for building robust user interfaces.
 
 ### 🤝 Contributing
 
