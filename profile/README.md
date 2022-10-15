@@ -18,7 +18,6 @@ We're Dot HQ, a group of individuals interested in privacy.
   </a>
   <span></span>
 	&nbsp;
-  <img align="center" src="https://komarev.com/ghpvc/?username=dothq&label=Profile%20views&color=0e75b6&style=flat" alt="dothq" />
 </p>
 
 ### 🚀 Projects
